@@ -1,0 +1,4 @@
+[class^="col"]{
+    min-height: 200px;
+    border: 2px solid red;
+}
